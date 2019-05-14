@@ -1,2 +1,3 @@
 # atoz_using_css
-A to Z using CSS pseudo classes
+Just playing around with Pseudo classes to make alphabets from only one div.
+Its not responsive. Working on it.
